@@ -1,4 +1,7 @@
 {
+  "profile": {
+    "name": "sayurmayur"
+  },
   "items": [
     {"id": 1, "nama": "Buncis", "berat": 250, "harga": 55500},
     {"id": 2, "nama": "Bunga kol", "berat": 250, "harga": 55500},
