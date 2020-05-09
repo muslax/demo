@@ -11,6 +11,6 @@
     {"id": 9, "nama": "Gambas", "berat": 250, "harga": 55500},
     {"id": 10, "nama": "Kacang panjang", "berat": 250, "harga": 55500},
     {"id": 11, "nama": "Kacang polong", "berat": 250, "harga": 55500},
-    {"id": 12, "nama": "Kangkung", "berat": 250, "harga": 55500},
+    {"id": 12, "nama": "Kangkung", "berat": 250, "harga": 55500}
   ]
 }
