@@ -1,14 +1,16 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post Satu" },
-    { "id": 2, "title": "Post Dua" },
-    { "id": 3, "title": "Post Tiga" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "items": [
+    {"id": 1, "nama": "Buncis", "berat": 250, "harga": 55500},
+    {"id": 2, "nama": "Bunga kol", "berat": 250, "harga": 55500},
+    {"id": 3, "nama": "Cabe keriting hijau", "berat": 250, "harga": 55500},
+    {"id": 4, "nama": "Cabe keriting merah", "berat": 250, "harga": 55500},
+    {"id": 5, "nama": "Cave rawit", "berat": 250, "harga": 55500},
+    {"id": 6, "nama": "Daun melinjo", "berat": 250, "harga": 55500},
+    {"id": 7, "nama": "Daun pisang", "berat": 250, "harga": 55500},
+    {"id": 8, "nama": "Daun singkong", "berat": 250, "harga": 55500},
+    {"id": 9, "nama": "Gambas", "berat": 250, "harga": 55500},
+    {"id": 10, "nama": "Kacang panjang", "berat": 250, "harga": 55500},
+    {"id": 11, "nama": "Kacang polong", "berat": 250, "harga": 55500},
+    {"id": 12, "nama": "Kangkung", "berat": 250, "harga": 55500},
+  ]
 }
